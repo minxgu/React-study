@@ -3,6 +3,7 @@ import Wrapper from './components/Wrapper';
 import Hello from './components/Hello';
 import Counter from './components/Counter';
 import InputSample from './components/InputSample';
+import UserList from './components/UserList';
 import './components/common.css';
 
 
@@ -26,6 +27,8 @@ function App() {
       <Counter />
 
       <InputSample />
+
+      <UserList />
       {/* 주석은 화면에 보이지 않습니다 */}
     </Wrapper>
   );

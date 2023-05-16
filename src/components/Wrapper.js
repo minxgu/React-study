@@ -7,7 +7,7 @@ function Wrapper({children}) {
   };
 
   return (
-    <div style={style}>
+    <div style={style} className="Wrap">
         {children}
     </div>
   )

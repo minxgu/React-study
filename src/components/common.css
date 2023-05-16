@@ -38,7 +38,7 @@ input, textarea, button {
 .placeholdersjs {color:#aaa !important}
 
 
-
+.Wrap{ min-height: 100vh; }
 
 .box{ border: 1px solid #999; padding: 30px; margin: 30px 0; }
 .box h1{ font-size: 30px; }
